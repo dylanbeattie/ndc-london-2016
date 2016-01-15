@@ -41,7 +41,6 @@ Now get yourself a ticket to the NDC
  
 **INSTRUMENTAL BREAK (guitar riff / 8 bars)**
 
-(spoken) 
 Now that ain't learning, that's no way to do it,  
 You're building software like it's 1993,  
 That ain't learning, what you got to do is.  
